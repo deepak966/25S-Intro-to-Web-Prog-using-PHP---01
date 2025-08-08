@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+header img {
+    border-radius: 5px;
+}
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+}
+form input, form textarea {
+    border-radius: 5px;
+}
+.table {
+    background-color: #fff;
+}
